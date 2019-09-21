@@ -179,11 +179,11 @@ def mouth(x,y):
 
 def setting():
     """设置参数"""
-    pensize(4)
+    pensize(10)
     # 隐藏海龟
     hideturtle()
     colormode(255)
-    color((255, 155, 192), "pink")
+    color((25, 115, 192), "pink")
     setup(840, 500)
     speed(10)
 

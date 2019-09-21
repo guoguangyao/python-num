@@ -9,9 +9,15 @@ Date: 2018-02-26
 请将该文件命名为hello.py并在终端中通过下面的命令运行它
 python hello.py
 """
-
+import turtle
 print('hello, world!')
 # print("你好,世界！")
 print('你好', '世界')
 print('hello', 'world', sep=', ', end='!')
 print('goodbye, world', end='!\n')
+
+
+print('hahaha')
+
+turtle.pensize(4)
+turtle.pencolor('yellow')
